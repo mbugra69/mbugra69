@@ -8,7 +8,7 @@ Skills: HTML / CSS / JS / C# / PHP / MySQL / React Native / Bootstrap / DLE / C+
 
 - 🔭 I’m currently working on Road To Heroism mobile game 
 - 🌱 I’m currently learning react native, Unity 
-
+- 📫 How to reach me: bugraakoksal@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mbugra69)  
 
