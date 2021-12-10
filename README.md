@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is mbugra69
+#### Design and Development
+![Design and Development](https://www.verdict.co.uk/wp-content/uploads/2021/04/shutterstock_1583248045.jpg)
 
-<!--
-**mbugra69/mbugra69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer engineering student at Sakarya University. I have been working as a web design specialist since March 2021. I'm learning game development, mobile app development. I am developing desktop applications. I make websites that can be managed with the panel. I'm curious
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JS / C# / PHP / MySQL / React Native / Bootstrap / DLE / C++ / Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Road To Heroism mobile game 
+- 🌱 I’m currently learning react native, Unity 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mbugra69)  
+
+![Profile views](https://gpvc.arturio.dev/mbugra69)  
