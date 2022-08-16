@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **.NET Core Web Api Project**
 
-- 🌱 I’m currently learning **Django, Unity and C#**
+- 🌱 I’m currently learning **Flutter, Unity and C#**
 
 - 💬 Ask me about **web development ,database services, .net**
 
