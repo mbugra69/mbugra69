@@ -1,8 +1,8 @@
-<h1 align="center">Hi there👋, I'm mbugra69. I graduated Computer Science at Sakarya University.</h1>
+<h1 align="center">Hi there👋, I'm mbugra69.</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbugra69&label=Profile%20views&color=0e75b6&style=flat" alt="mbugra69" /> </p>
-
+- 💬 I graduated Computer Science at Sakarya University.
 - 🔭 I’m currently working on **.NET Core Web Api Project**
 
 - 🌱 I’m currently learning **Flutter, and C#**
